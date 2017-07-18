@@ -23,4 +23,4 @@ Click [here](https://github.com/Apurv-Deshpande/YouTube.git) then download the .
 > npm start
 ```
 #### Project will run on:
-Open the browser go to [localhost:8080](http://localhost:8080)  
+Open the browser go to localhost:8080
